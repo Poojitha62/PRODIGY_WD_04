@@ -64,17 +64,17 @@ section{
    display:none;
 }
 .image-container {
-   width: 200px; /* Adjust size as needed */
-   height: 200px; /* Adjust size as needed */
+   width: 200px; 
+   height: 200px; 
    margin-top: 20px;
    display: flex;
    justify-content: center;
    align-items: center;
-   width: 200px; /* Adjust size as needed */
-   height: 200px; /* Adjust size as needed */
+   width: 200px; 
+   height: 200px; 
     /* Border color for the square */
-   border-radius: 10px; /* Adjust border radius to create a rounded square */
-   overflow: hidden; /* Hide overflowing content */
+   border-radius: 10px;
+   overflow: hidden; 
    width:50%;
    height:500px;
   
@@ -93,7 +93,7 @@ section{
    display: block;
    width: 100%;
    height: auto;
-   border-radius: 50%; /* Create a circular shape */
+   border-radius: 50%; 
    transform: translate(-50%, -50%);
    position: absolute;
    top: 50%;
@@ -165,17 +165,17 @@ img:hover{
    box-shadow:none;
 }
  #about .image-container {
-   width: 200px; /* Adjust size as needed */
-   height: 200px; /* Adjust size as needed */
+   width: 200px; 
+   height: 200px; 
    margin-top: 30px;
    display: flex;
    justify-content: center;
    align-items: center;
-   width: 200px; /* Adjust size as needed */
-   height: 200px; /* Adjust size as needed */
+   width: 200px; 
+   height: 200px; 
     /* Border color for the square */
-   border-radius: 10px; /* Adjust border radius to create a rounded square */
-   overflow: hidden; /* Hide overflowing content */
+   border-radius: 10px; 
+   overflow: hidden; 
    width:70%;
    height:500px;
   
